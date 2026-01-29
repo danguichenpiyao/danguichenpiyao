@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danguichenpiyao)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danguichenpiyao)
 ![Metrics](/github-metrics.svg)
+![trophy](https://github-profile-trophy.vercel.app/?username=danguichenpiyao)
