@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?danguichenpiyao=page.id&left_color=green&right_color=red)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danguichenpiyao)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=danguichenpiyao)
+![GitHub Streak](https://streak-stats.demolab.com/?user=danguichenpiyao)
+![](https://stats.justsong.cn/api/leetcode?username=danguichenpiyao=true)
